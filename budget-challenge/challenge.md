@@ -1,5 +1,38 @@
 # The 65€ Budget Commander Challenge
 
+## TL;DR
+
+### Timeline
+
+| When | What |
+|------|------|
+| Day 0 | Secret Santa draw |
+| + 10 days | Challenger submits wedge assignment |
+| August 1st, 2026 | **Deck submission deadline** |
+
+### Key Rules
+
+- Budget: **65 €** — Moxfield total, cheapest printing, basics free
+- Your challenger picks a three-color wedge; you choose any color combo within it
+- Top 10 EDHREC commanders for your color combo are banned from the command zone
+- No free tutors; Bracket 2 power level
+
+→ [Full rules below](#the-rules)
+
+### Contents
+
+- [Introduction](#willkommen-bienvenue-welcome)
+- [How a Challenge Works](#how-a-challenge-works)
+- [The Rules](#the-rules)
+  - [Budget](#budget-65-)
+  - [Color Wedge](#color-wedge)
+  - [Commander Ban: Top 10](#commander-ban-top-10-by-popularity)
+  - [Target Bracket](#target-bracket-2)
+  - [Tutor Ban](#tutor-ban)
+- [The Spirit of the Format](#the-spirit-of-the-format)
+
+---
+
 ## Willkommen. Bienvenue. Welcome.
 
 *Mesdames et messieurs, ladies and gentlemen, Damen und Herren —*
