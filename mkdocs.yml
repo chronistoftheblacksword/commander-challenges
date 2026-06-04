@@ -1,0 +1,18 @@
+site_name: Commander Challenges
+site_url: https://chronistoftheblacksword.github.io/commander-challenges/
+docs_dir: budget-challenge
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: green
+    accent: green
+  features:
+    - navigation.top
+    - search.suggest
+
+nav:
+  - The Challenge: index.md
+  - Rules Reference: rules.md
+  - Banned Commanders: edhrec_top10_commanders.md

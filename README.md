@@ -18,7 +18,7 @@ Each player is assigned a challenger via Secret Santa draw. The challenger picks
 - No free tutors; constrained tutors legal
 - Bracket 2 power level
 
-Full rules and banned list: [`budget-challenge/challenge.md`](budget-challenge/challenge.md)
+Full rules and banned list: [`budget-challenge/index.md`](budget-challenge/index.md)
 
 **Timeline:**
 - **2026-06-04** — Secret Santa draw completed

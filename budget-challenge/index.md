@@ -24,7 +24,7 @@
 - [Introduction](#willkommen-bienvenue-welcome)
 - [How a Challenge Works](#how-a-challenge-works)
 - [The Rules](#the-rules)
-  - [Budget](#budget-65-)
+  - [Budget](#budget-65)
   - [Color Wedge](#color-wedge)
   - [Commander Ban: Top 10](#commander-ban-top-10-by-popularity)
   - [Target Bracket](#target-bracket-2)
