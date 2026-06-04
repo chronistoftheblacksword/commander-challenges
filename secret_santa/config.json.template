@@ -1,0 +1,8 @@
+{
+  "challenge": "challenge-name",
+  "participants": [
+    "Alice",
+    "Bob",
+    "Charlie"
+  ]
+}
