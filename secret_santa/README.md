@@ -35,6 +35,12 @@ PWPUSH_TOKEN=your_api_token_here
 
 **4. Set participants**
 
+Copy the template and fill in your names:
+
+```bash
+cp config.json.template config.json
+```
+
 Edit `config.json`:
 
 ```json
@@ -99,6 +105,8 @@ secret_santa/
 ├── requirements.txt    — Python dependencies
 ├── .env.example        — credential template
 ├── .env                — your credentials (gitignored)
+├── config.json.template — participant list template
+├── config.json         — your participant list (gitignored)
 ├── .venv/              — virtual environment (gitignored)
 └── results/            — output files (gitignored)
 ```
