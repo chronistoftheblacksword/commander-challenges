@@ -449,6 +449,16 @@ Decks should be built to **Bracket 2** of the official Commander bracket system.
 - No extra turn spells as a primary strategy
 - Decks aim for a fun, interactive game rather than a fast or oppressive win
 
+> **Bracket 2: Core**
+>
+> *Experience:* The easiest reference point is that the average current preconstructed deck is at a Core (Bracket 2) level.
+>
+> While Bracket 2 decks may not have every perfect card, they have the potential for big, splashy turns, strong engines, and are built in a way that works toward winning the game. While the game is unlikely to end out of nowhere and generally goes nine or more turns, you can expect big swings. The deck usually has some cards that aren't perfect from a gameplay perspective but are there for flavor reasons, or just because they bring a smile to your face.
+>
+> *Deck Building:* No cards from the Game Changers list. No intentional two-card infinite combos or mass land denial. Extra-turn cards should only appear in low quantities and are not intended to be chained in succession or looped. Tutors should be sparse.
+>
+> — [Introducing Commander Brackets (Beta)](https://magic.wizards.com/en/news/announcements/introducing-commander-brackets-beta)
+
 ### Tutor Ban
 
 Free tutoring undermines the creative constraint of the format. The following cards are banned in all decks:
