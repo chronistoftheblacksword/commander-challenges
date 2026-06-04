@@ -1,3 +1,5 @@
+site/
+.venv/
 secret_santa/.env
 secret_santa/config.json
 secret_santa/results/
