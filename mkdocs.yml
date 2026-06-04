@@ -14,5 +14,4 @@ theme:
 
 nav:
   - The Challenge: index.md
-  - Rules Reference: rules.md
   - Banned Commanders: edhrec_top10_commanders.md
