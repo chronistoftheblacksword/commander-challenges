@@ -75,11 +75,22 @@ python secret_santa.py
 The script will:
 
 1. Run the draw (Sattolo's algorithm — guaranteed no self-assignments)
-2. Create one private link per participant via eu.pwpush.com (expires after **7 days or 3 views**)
+2. Create one private link per participant via eu.pwpush.com (expires after **7 days**)
 3. Print the results table to stdout
 4. Write `results/results_<challenge>.md`
+5. Write `results/assignments_<challenge>.json` — stores who drew whom locally
 
 **Send each person only their own link.** The links are private — opening someone else's link reveals who they have to challenge.
+
+### Re-pushing an expired link
+
+If someone's link expires before they read it, re-create it without re-running the whole draw:
+
+```bash
+python secret_santa.py --repush Alice
+```
+
+This reads the stored assignments, generates a new link for that person, and updates the results file.
 
 ## Output example
 
@@ -109,4 +120,6 @@ secret_santa/
 ├── config.json         — your participant list (gitignored)
 ├── .venv/              — virtual environment (gitignored)
 └── results/            — output files (gitignored)
+    ├── results_<challenge>.md      — attendee/link table
+    └── assignments_<challenge>.json — who drew whom (source of truth for --repush)
 ```
