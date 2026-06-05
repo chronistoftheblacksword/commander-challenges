@@ -12,7 +12,7 @@
 
 ### Key Rules
 
-- Budget: **65 €** — Moxfield total, cheapest printing, basics free
+- Budget: **65 €** — Moxfield total, Cardmarket prices, cheapest printing, basics free
 - Your challenger picks a three-color wedge; you choose any color combo within it
 - Top 10 EDHREC commanders for your color combo are banned from the command zone
 - No free tutors; Bracket 2 power level
@@ -71,6 +71,10 @@ So. Are you ready to play?
 ### Budget: 65 €
 
 The total cost of the deck may not exceed **65 €**. Price is determined by the **Moxfield decklist total using the cheapest available printing** of each card. Basic lands are free and do not count toward the budget.
+
+**Pricing baseline: Cardmarket.** Make sure Moxfield uses Cardmarket as its primary price source. To set it:
+
+> Profile → Account Settings → Pricing & Affiliates → drag **Cardmarket** to the top of the list.
 
 ### Color Wedge
 
