@@ -485,6 +485,15 @@ Free tutoring undermines the creative constraint of the format. The following ca
 - Gamble
 - Scheming Symmetry
 - Wishclaw Talisman
+- Natural Order
+- Diabolic Intent
+- Unmarked Grave
+- Intuition
+- Survival of the Fittest
+- Eladamri's Call
+- Cruel Tutor
+- 
+
 
 Tutors with a genuine constraint beyond card type are legal. A constraint means something that meaningfully limits the search — a CMC cap, a power/toughness restriction, a subtype, or a destination other than hand. Examples of legal tutors:
 
